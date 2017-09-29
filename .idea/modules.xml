@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons2.iml" filepath="$PROJECT_DIR$/lessons2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p005_1_layout/p005_1_layout.iml" filepath="$PROJECT_DIR$/p005_1_layout/p005_1_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p006_1_layouts/p006_1_layouts.iml" filepath="$PROJECT_DIR$/p006_1_layouts/p006_1_layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p006_2_layouts-relative/p006_2_layouts-relative.iml" filepath="$PROJECT_DIR$/p006_2_layouts-relative/p006_2_layouts-relative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p006_3_layouts-absolute/p006_3_layouts-absolute.iml" filepath="$PROJECT_DIR$/p006_3_layouts-absolute/p006_3_layouts-absolute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p007_1_layoutparams/p007_1_layoutparams.iml" filepath="$PROJECT_DIR$/p007_1_layoutparams/p007_1_layoutparams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p007_2_layoutgravity/p007_2_layoutgravity.iml" filepath="$PROJECT_DIR$/p007_2_layoutgravity/p007_2_layoutgravity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p008_1_viewbyid/p008_1_viewbyid.iml" filepath="$PROJECT_DIR$/p008_1_viewbyid/p008_1_viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p009_1_clickbutton/p009_1_clickbutton.iml" filepath="$PROJECT_DIR$/p009_1_clickbutton/p009_1_clickbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p010_1_listeners/p010_1_listeners.iml" filepath="$PROJECT_DIR$/p010_1_listeners/p010_1_listeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p011_1_resvalues/p011_1_resvalues.iml" filepath="$PROJECT_DIR$/p011_1_resvalues/p011_1_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p012_1_menusimple/p012_1_menusimple.iml" filepath="$PROJECT_DIR$/p012_1_menusimple/p012_1_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p014_1_advancedmenu/p014_1_advancedmenu.iml" filepath="$PROJECT_DIR$/p014_1_advancedmenu/p014_1_advancedmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p014_2_xmlmenu/p014_2_xmlmenu.iml" filepath="$PROJECT_DIR$/p014_2_xmlmenu/p014_2_xmlmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p015_1_contextmenu/p015_1_contextmenu.iml" filepath="$PROJECT_DIR$/p015_1_contextmenu/p015_1_contextmenu.iml" />
+    </modules>
+  </component>
+</project>

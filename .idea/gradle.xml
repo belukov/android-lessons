@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p005_1_layout" />
+            <option value="$PROJECT_DIR$/p006_1_layouts" />
+            <option value="$PROJECT_DIR$/p006_2_layouts-relative" />
+            <option value="$PROJECT_DIR$/p006_3_layouts-absolute" />
+            <option value="$PROJECT_DIR$/p007_1_layoutparams" />
+            <option value="$PROJECT_DIR$/p007_2_layoutgravity" />
+            <option value="$PROJECT_DIR$/p008_1_viewbyid" />
+            <option value="$PROJECT_DIR$/p009_1_clickbutton" />
+            <option value="$PROJECT_DIR$/p010_1_listeners" />
+            <option value="$PROJECT_DIR$/p011_1_resvalues" />
+            <option value="$PROJECT_DIR$/p012_1_menusimple" />
+            <option value="$PROJECT_DIR$/p014_1_advancedmenu" />
+            <option value="$PROJECT_DIR$/p014_2_xmlmenu" />
+            <option value="$PROJECT_DIR$/p015_1_contextmenu" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/contextMenuGroup_tvColor">
+        <item
+            android:id="@+id/tvColorMenu_red"
+            android:title="Red">
+        </item>
+        <item
+            android:id="@+id/tvColorMenu_blue"
+            android:title="Blue">
+        </item>
+        <item
+            android:id="@+id/tvColorMenu_green"
+            android:title="Green">
+        </item>
+    </group>
+</menu>

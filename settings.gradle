@@ -1,0 +1,1 @@
+include ':app', ':p005_1_layout', ':p006_1_layouts', ':p006_2_layouts-relative', ':p006_3_layouts-absolute', ':p007_1_layoutparams', ':p007_2_layoutgravity', ':p008_1_viewbyid', ':p009_1_clickbutton', ':p010_1_listeners', ':p011_1_resvalues', ':p012_1_menusimple', ':p014_1_advancedmenu', ':p014_2_xmlmenu', ':p015_1_contextmenu'
